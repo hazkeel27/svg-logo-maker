@@ -18,7 +18,7 @@ I've created a state-of-the-art tool that lets users quickly and easily create e
 
 ## <a name="installation"></a>Installation 🛠️
 
-To install necessary dependencies, run the following command:
+To install the necessary dependencies, run the following command:
 
 ```
 npm i
@@ -32,23 +32,23 @@ npm install jest@28.1.3 --save-dev
 - Then the user must install the NodeJS library.
 - Install the inquirer dependency to ask questions in the terminal.
 - Developers can install the jest devdependency to test the code.
-- Answer questions asked in the terminal to generate a logo.svg file.
+- Answer questions asked in the terminal to generate a logo.SVG file.
 
-Following is the screenshot of the terminal with questions answered by user. 📷
+Following is the screenshot of the terminal with questions answered by the user. 📷
 
 ![terminal screensoht](./images/terminal-screenshot.png)
 
-Following is the generated logo.svg file. 📷
+Following is the generated logo.SVG file. 📷
 
 ![sample svg logo](./images/sample-svg-logo.png)
 
-Following is a video demonstrating the how to run the application in the terminal as well as the application passing jest devdependency tests. 🎥
+Following is a video demonstrating how to run the application in the terminal as well as the application passing jest devdependency tests. 🎥
 
 [![Video Demo](https://img.youtube.com/vi/nWNQEc4X2qo/0.jpg)](https://www.youtube.com/watch?v=nWNQEc4X2qo)
 
 ## <a name="contributing"></a>Contribution 🤝
 
-Although the application makes use of modern ES6 ideas and object-oriented programming, its scope is currently constrained. By adding other features, such a wide variety of logos for clients to choose from easily, users can increase the functionality of the program.
+Although the application makes use of modern ES6 ideas and object-oriented programming, its scope is currently constrained. By adding other features, such as a wide variety of logos for clients to choose from easily, users can increase the functionality of the program.
 
 ## <a name="tests"></a>Tests 🧪
 
@@ -82,3 +82,4 @@ You can view my projects by going through my GitHub profile at [https://github.c
 
 ## <a name="link"></a>Deployed Application 🚀
 
+[https://hazkeel27.github.io/svg-logo-maker/](https://hazkeel27.github.io/svg-logo-maker/)
